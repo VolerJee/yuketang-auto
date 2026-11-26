@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://api.deepseek.com",
+  "apiKey": "",
+  "model": "deepseek-flash",
+  "detail": "original",
+  "maxTokens": 800,
+  "homework": {
+    "enabled": true,
+    "minDelay": 30,
+    "maxDelay": 110
+  }
+}

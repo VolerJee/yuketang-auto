@@ -1,0 +1,8 @@
+logs/
+data/
+shots/
+browser.txt
+*.local.json
+runtime/
+__pycache__/
+*.pyc
